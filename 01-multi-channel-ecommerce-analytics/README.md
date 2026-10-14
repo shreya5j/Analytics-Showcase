@@ -12,7 +12,7 @@ The project uses Microsoft Excel to transform raw sales data into meaningful bus
 
 ## Dashboard Preview
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Key Analysis
 - Monthly Sales vs Orders
